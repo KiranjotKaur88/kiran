@@ -3,6 +3,7 @@ public class SwitchCasePractice
 {
     public static void main(String[] args)
     {
+        System.out.println("Hello");
         Scanner ob2= new Scanner(System.in);
         int countryCode;
         System.out.println("Enter Country Code:\n");
