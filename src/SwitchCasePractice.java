@@ -7,6 +7,7 @@ public class SwitchCasePractice
         Scanner ob2= new Scanner(System.in);
         int countryCode;
         System.out.println("Enter Country Code:\n");
+        System.out.println("Hello");
         countryCode= ob2.nextInt();
 
         switch (countryCode) //allowed int, short , char, byte
